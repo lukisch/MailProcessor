@@ -24,21 +24,21 @@ TOOL_DEFINITIONS: dict[str, dict] = {
         "desc_key": "tool_umc_desc",
         "main_scripts": ["mail_imap_cleaner_v1.py", "main.py"],
         "folder_hints": ["REL-PUB_UniversalMailCleaner", "RDY_UniversalMailCleaner", "UniversalMailCleaner"],
-        "github_repo": "lukisch/UniversalMailCleaner",
+        "github_repo": "doc-bricks/UniversalMailCleaner",
     },
     "universal_docs_grabber": {
         "name_key": "tool_udg_name",
         "desc_key": "tool_udg_desc",
         "main_scripts": ["UniversalDocsGrabberV1.py", "main.py"],
         "folder_hints": ["REL-PUB_UniversalDocsGrabber", "RDY_UniversalDocsGrabber", "UniversalDocsGrabber"],
-        "github_repo": "lukisch/UniversalDocsGrabber",
+        "github_repo": "doc-bricks/UniversalDocsGrabber",
     },
     "universal_invoice_mail": {
         "name_key": "tool_uim_name",
         "desc_key": "tool_uim_desc",
         "main_scripts": ["UniversalInvoiceMail.py", "main.py"],
         "folder_hints": ["REL-PUB_UniversalInvoiceMail", "RDY_UniversalInvoiceMail", "UniversalInvoiceMail"],
-        "github_repo": "lukisch/UniversalInvoiceMail",
+        "github_repo": "doc-bricks/UniversalInvoiceMail",
     },
 }
 
