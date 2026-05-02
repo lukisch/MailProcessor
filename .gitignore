@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# Local config (contains tool paths)
+%LOCALAPPDATA%/
+
+# Downloaded tools
+tools/
+
+# IDE
+.vscode/
+.idea/
+
+# Release artifacts
+releases/
+*.zip
+*.exe
+*.msix
+SHA256SUMS.txt
