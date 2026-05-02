@@ -53,6 +53,16 @@ Einstellungen werden in `%LOCALAPPDATA%\MailProcessor\config.json` gespeichert.
 
 Tools werden in `%LOCALAPPDATA%\MailProcessor\tools\` installiert.
 
+## Verwandte Tools
+
+Teil der [doc-bricks](https://github.com/doc-bricks) Mail-Suite:
+
+| Tool | Beschreibung |
+|------|--------------|
+| [UniversalMailCleaner](https://github.com/doc-bricks/UniversalMailCleaner) | Regelbasierter IMAP-Cleaner mit Safe-Mode |
+| [UniversalDocsGrabber](https://github.com/doc-bricks/UniversalDocsGrabber) | Dokumente und Anhänge aus IMAP-Mails herunterladen |
+| [UniversalInvoiceMail](https://github.com/doc-bricks/UniversalInvoiceMail) | Rechnungen und Belege automatisch aus Mails extrahieren |
+
 ## Lizenz
 
 MIT-Lizenz — siehe [LICENSE](LICENSE)
