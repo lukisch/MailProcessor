@@ -20,3 +20,6 @@ releases/
 *.exe
 *.msix
 SHA256SUMS.txt
+
+# Internal task tracking (BACH internal, never publish)
+AUFGABEN.txt
