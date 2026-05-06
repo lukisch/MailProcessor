@@ -41,6 +41,12 @@ MailProcessor sitzt im Windows-System-Tray und gibt per Rechtsklick Zugang zu:
    ```
 4. Im Einrichtungsassistenten die gewünschten Tools auswählen
 
+## Windows-Release
+
+- Lokale Release-Artefakte liegen in `releases/v0.1.0/`
+- Die Windows-EXE wird mit `build_exe.bat` neu erzeugt
+- Das Paket heißt `MailProcessor-0.1.0-desktop.exe`
+
 ## Voraussetzungen
 
 - Python 3.10+
